@@ -7,9 +7,7 @@
 
 // COMMENT!
 
-//    button click
-$(".shoot").button().click(function(){
-  console.log(".input");
-}); 
-
-$(:)
+$("#shoot").click(function(){
+  str = $("#input").text();
+  $("#userChoice").text(str);
+});
