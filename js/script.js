@@ -4,7 +4,7 @@
 
 //GLOBAL VARIABLES
 /* global $ */
-
+console.log(".input");
 
 
 // COMMENT!
