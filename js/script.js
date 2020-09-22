@@ -8,6 +8,6 @@
 // COMMENT!
 
 $("#shoot").click(function(){
-  str = $("#input").text();
+  var str = $("#input").val();
   $("#userChoice").text(str);
 });
