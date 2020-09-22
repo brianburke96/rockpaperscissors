@@ -15,7 +15,7 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 - [x] Look through all the Starter Code
 
 ### JavaScript
-- [ ] Use JavaScript to display the value of the input on the page
+- [x] Use JavaScript to display the value of the input on the page
 
 ### HTML and CSS
 - [ ] Add any more HTML elements you will need to the page
