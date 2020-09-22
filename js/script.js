@@ -5,6 +5,7 @@
 //GLOBAL VARIABLES
 /* global $ */
 console.log(".input");
+console.log("#input");
 
 
 // COMMENT!
