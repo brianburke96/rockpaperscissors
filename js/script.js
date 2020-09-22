@@ -4,9 +4,12 @@
 
 //GLOBAL VARIABLES
 /* global $ */
-console.log(".input");
-console.log("#input");
-
 
 // COMMENT!
 
+//    button click
+$(".shoot").button().click(function(){
+  console.log(".input");
+}); 
+
+$(:)
